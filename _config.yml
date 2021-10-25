@@ -86,7 +86,7 @@ author:
   location         : "NY, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QBIQZIkAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QBIQZIkAAAAJ"
   email            : "aas1067@nyu.edu"
 #   CV               : "aas1067@nyu.edu"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/abdullahalshabili/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
